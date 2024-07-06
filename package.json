@@ -5,6 +5,10 @@
    "license": "MIT",
    "homepage": "https://github.com/Ashish-simpleCoder/create-classic-vite-cli",
    "author": "Ashish-simpleCoder",
+   "publishConfig": {
+      "access": "public",
+      "provenance": true
+   },
    "bin": {
       "create-classic-vite-cli": "index.js"
    },
