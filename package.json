@@ -16,7 +16,7 @@
    "scripts": {
       "dev": "unbuild --stub",
       "build": "unbuild",
-      "typecheck": "tsc --noEmit",
+      "type-check": "tsc --noEmit",
       "test": "vitest run",
       "prepare": "husky install && pnpm build",
       "cs": "pnpm changeset",
