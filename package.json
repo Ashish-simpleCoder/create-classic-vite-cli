@@ -33,13 +33,7 @@
    },
    "keywords": [
       "react-app",
-      "vue3-app",
-      "react-ts",
-      "vue3-ts",
-      "docker",
-      "openapi",
-      "swagger",
-      "query"
+      "tailwind + vite"
    ],
    "repository": {
       "type": "git",
