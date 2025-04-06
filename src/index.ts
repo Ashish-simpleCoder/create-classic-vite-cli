@@ -35,6 +35,16 @@ const FRAMEWORKS: Framework[] = [
       color: green,
       variants: [
          {
+            name: 'react-tailwind-v4',
+            display: 'tailwind v4',
+            color: blue,
+         },
+         {
+            name: 'react-tailwind-v4-with-router',
+            display: 'tailwind v4 with router',
+            color: blue,
+         },
+         {
             name: 'react-tailwind-ts',
             display: 'TypeScript',
             color: blue,
