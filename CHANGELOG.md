@@ -1,5 +1,14 @@
 # create-classic-vite-cli
 
+## 0.3.0
+
+### Minor Changes
+
+-  8bfb250: New react templates
+
+   -  Vite + react + tailwind-v4
+   -  Vite + react + tailwind-v4 + react-router-dom-v6
+
 ## 0.2.0
 
 ### Minor Changes
